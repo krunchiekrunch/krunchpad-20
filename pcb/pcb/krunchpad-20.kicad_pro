@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|32623642|11805000|551cc5a0-ce65-48ec-9757-27098a712fa7|6f5d6c35-0199-4bd6-bae4-0a8912edffa4",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -522,7 +527,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/root/Downloads/krunchpad-20/production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
