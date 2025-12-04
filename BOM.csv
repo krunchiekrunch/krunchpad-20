@@ -2,7 +2,8 @@ Qty,Item,Notes,Cost (USD),URL
 1,Seeed Studio XIAO RP2040,Microcontroller,0,
 20,THT 1N4148 Diode (DO-35),For switch matrix,0,
 20,MX-Style Switches,Mechanical key switches,0,
-1,"0.91"" OLED Display",,0,
+1,EC11 E Rotary Encoder with Switch,Disabled when OLED is present,0,
+2,"0.91/0.96"" OLED Display",This PCB allow for either size,0,
 20,Blank DSA Keycaps,,0,
 20,Kailh MX Hotswap Socket,Hotswapping for switches,2.93,https://www.aliexpress.com/item/1005009794038277.html
 4,M2x2.7mmx3mm Heatset Inserts (W*H),For mounting,0,
