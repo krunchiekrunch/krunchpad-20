@@ -12,6 +12,8 @@ Featuring an open-top design from the case and an OLED display for displaying ke
 | ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Baseplate](assets/case.png) |
 | | ![3D-Back](assets/3dback.png) | |
 
+<img width="922" height="615" alt="image" src="https://github.com/user-attachments/assets/99168068-fae5-4045-96d2-e3f4d86a7ea6" />
+
 <img width="710" height="633" alt="image" src="https://github.com/user-attachments/assets/340120d8-8a4d-4446-867e-96368e8dbaad" />
 
 ![Blueprint](assets/blueprint_logo_centered.png)
