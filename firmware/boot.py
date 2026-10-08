@@ -2,4 +2,5 @@ from kmk.bootcfg import bootcfg
 
 bootcfg(
     usb_id={'manufacturer': "krunchiekrunch", 'product': "krunchpad-20"},
+    midi=False,
 )
